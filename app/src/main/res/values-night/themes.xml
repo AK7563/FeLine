@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SideNav" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF000000</item>
+        <item name="colorSecondary">#FFFFFFFF</item>
+    </style>
+
+    <style name="CardView.Dark." parent="CardView.Dark">
+        <item name="android:radius">40dp</item>
+        <item name="strokeColor">#FFFFFFFF</item>
+        <item name="strokeWidth">1dp</item>
+    </style>
+</resources>
